@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/searchFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_search_24dp"
+        android:title="@string/btn_menu_search"/>
+<!--    <item-->
+<!--        android:id="@+id/statisticFragment"-->
+<!--        android:enabled="true"-->
+<!--        android:icon="@drawable/ic_random_24dp"-->
+<!--        android:title="@string/btn_menu_statistics"/>-->
+    <item
+        android:id="@+id/favoriteFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_favorite_outlined_24dp"
+        android:title="@string/btn_menu_statistics"/>
+</menu>

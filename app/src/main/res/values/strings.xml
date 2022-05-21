@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calories сalculator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="btn_menu_search">Search product</string>
+    <string name="btn_menu_statistics">Statistics</string>
+    <string name="btn_menu_favorite">Favorite product</string>
+    <string name="et_pokemon_search_hint">Product name</string>
+    <string name="card_pokemon_aisle">Aisle:</string>
+    <string name="card_pokemon_forms">Nutrients:</string>
+    <string name="card_pokemon_abilities">Abilities:</string>
+    <string name="card_pokemon_held_items">Held items:</string>
+    <string name="card_btn_favorite_add">add in statistic</string>
+    <string name="search_not_found">Not found</string>
+    <string name="card_pokemon_forms_none">No forms</string>
+    <string name="card_pokemon_abilities_none">No abilities</string>
+    <string name="card_pokemon_held_items_none">No held items</string>
+    <string name="card_exp">Base exp: %d</string>
+    <string name="card_btn_stat_remove">remove from statistic</string>
+    <string name="hint_text_input">Enter weight at grams</string>
+    <string name="calories">Calories:</string>
+</resources>
